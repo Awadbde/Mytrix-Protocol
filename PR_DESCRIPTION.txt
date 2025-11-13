@@ -1,0 +1,8 @@
+Add logo for Mytrix Protocol (MTP)
+
+Files added:
+- blockchains/polygon/assets/0x6343728d4c53c99ff9974b4688c32ef5e92106fe/logo.png
+- blockchains/polygon/assets/0x6343728d4c53c99ff9974b4688c32ef5e92106fe/logo.svg
+- blockchains/polygon/assets/0x6343728d4c53c99ff9974b4688c32ef5e92106fe/info.json
+
+This PR adds the token logo and metadata for Mytrix Protocol on Polygon.
